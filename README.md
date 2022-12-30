@@ -1,2 +1,2 @@
 # ts-rest-api
-Rest api implementation using typescript
+Rest API implementation using typescript
